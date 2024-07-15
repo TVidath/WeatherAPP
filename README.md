@@ -1,16 +1,3 @@
 # clima
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clima is a Weather App useful for fetching the current weather at the user's location and also hoards the feature of finding the current weather at any other desired location by searching the specific city's name. It uses the OpenWeatherMap API to fetch the weather details of the location.
