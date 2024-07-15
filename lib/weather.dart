@@ -1,7 +1,7 @@
 import 'package:clima/location.dart';
 import 'networking.dart';
 
-const APIKEY ='8aab889e81ae729f560c3dd1c917c83f';
+const APIKEY ='YOUR_API_KEY';
 
 class WeatherModel {
   
