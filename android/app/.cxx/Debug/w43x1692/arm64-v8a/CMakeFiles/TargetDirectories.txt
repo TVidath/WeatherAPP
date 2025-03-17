@@ -1,0 +1,2 @@
+C:/development/projects/climate/clima/android/app/.cxx/Debug/w43x1692/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/development/projects/climate/clima/android/app/.cxx/Debug/w43x1692/arm64-v8a/CMakeFiles/rebuild_cache.dir
