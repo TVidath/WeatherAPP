@@ -4,12 +4,12 @@ This is a Weather App that fetches the current weather at the user's location an
 
 ## 📸 Screenshots
 
-### 🌍 Home Screen
-![Home Screen](assests\screenshots\weatherappsc.jpg)
+### 🌍 Home Screen  
+<img src="assests/screenshots/weatherappsc.jpg" width="300">
 
+### 🔍 Search Feature  
+<img src="assests/screenshots/weatherappsc1.jpg" width="300">
 
-### 🔍 Search Feature
-![Search Screen](assests/screenshots/weatherappsc1.jpg)
 
 ## 🚀 Features
 ✔ Get real-time weather updates  
