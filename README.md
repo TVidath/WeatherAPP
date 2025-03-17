@@ -18,3 +18,4 @@ This is a Weather App that fetches the current weather at the user's location an
 
 ## 🔗 API Used
 [OpenWeatherMap API](https://openweathermap.org/)
+(Add your api key in the weather.dart file in lib )
